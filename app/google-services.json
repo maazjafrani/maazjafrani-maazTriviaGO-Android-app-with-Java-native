@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "686922927288",
+    "project_id": "triviago-75146",
+    "storage_bucket": "triviago-75146.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686922927288:android:606f1034df43380c14b84d",
+        "android_client_info": {
+          "package_name": "com.example.triviago"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "686922927288-h7la6hlgckagem382f6pn8tad3dliviu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCR4Bs8lDSwdm0VC-B-eci0Vgce0FAqc5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "686922927288-h7la6hlgckagem382f6pn8tad3dliviu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
